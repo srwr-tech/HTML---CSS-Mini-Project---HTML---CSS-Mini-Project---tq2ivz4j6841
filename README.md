@@ -1,13 +1,13 @@
  # HTML---CSS-Mini-Project---HTML---CSS-Mini-Project---2uf2vw5akq69
 
 
-Project Name: Food Suff
+Project Name: online food ordering website
 
 Project Description:
 
 a. WHY this project was chosen (what use case does it solve)?
 
-My project name is "FOOD SUFF" & its a food ordering website.The reason of choosing this project is that it benefits both the customer and the business.With a website or mobile app, customers can easily browse all the dishes the restaurant has available, customize dishes to their requirements and place an order. 
+My project name is "Saniya Food Junction" & its a food ordering website.The reason of choosing this project is that it benefits both the customer and the business.With a website or mobile app, customers can easily browse all the dishes the restaurant has available, customize dishes to their requirements and place an order. 
 
 Use cases:
 
